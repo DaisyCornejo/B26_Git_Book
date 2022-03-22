@@ -1,5 +1,5 @@
-Hello
+Hello!
 How was your day?
 
-GitHub is pretty cool
+GitHub is pretty cool.
 
